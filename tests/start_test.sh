@@ -4,4 +4,4 @@ source ../set_env.sh
 
 # Launch test.
 echo "Launching test..."
-python test_holoclean.py
+python test_holoclean_crashing.py
